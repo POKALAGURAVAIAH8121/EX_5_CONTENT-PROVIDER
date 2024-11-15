@@ -151,9 +151,9 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/6cd103f5-da84-44a6-911c-9bff7ce34d97)
+<img src="https://github.com/user-attachments/assets/6cd103f5-da84-44a6-911c-9bff7ce34d97" width=200>
 
-![image](https://github.com/user-attachments/assets/7d03651c-9ec9-4a70-9deb-445bd0023a04)
+<img src="https://github.com/user-attachments/assets/7d03651c-9ec9-4a70-9deb-445bd0023a04" width=200>
 
 
 ## RESULT
